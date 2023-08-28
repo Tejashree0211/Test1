@@ -2,5 +2,4 @@
 
 Tejashree Parekh
 Apporva Kolte
-Krishna
-Raja
+Krishna Raja
